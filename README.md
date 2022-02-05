@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Rafiqul Islam
 - 👀 I’m interested in Flullstack software developing
-- 🌱 I’m currently learning Django
+- 🌱 I’m expert in Flutter and also currently learning Django
 - 💞️ I’m looking to collaborate on software solution
 - 📫 How to reach me ---> ribijoy19@gmail.com
 
