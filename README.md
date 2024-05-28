@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mdrafiq49472921" target="blank"><img src="https://img.shields.io/twitter/follow/mdrafiq49472921?logo=twitter&style=for-the-badge" alt="mdrafiq49472921" /></a> </p>
 
-- 🔭 I’m currently working on [Social organization website](https://batch-2000.com/)
+- 🔭 I’m currently working on [Event management web app](https://www.absolut-ticket.at/)
 
-- 🌱 I’m currently learning **react, django**
+- 🌱 I’m currently learning **Vue.js, Symfony, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://rafiqit.netlify.app/](https://rafiqit.netlify.app/)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://rafiqit.netlify.app/](https://rafiqit.netlify.app/)
 
-- ⚡ Fun fact **Gamming, Coding**
+- ⚡ Fun fact **Cycling, Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
