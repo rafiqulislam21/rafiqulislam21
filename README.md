@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Event management web app](https://www.absolut-ticket.at/)
 
-- 🌱 I’m currently learning **Vue.js, Symfony, Laravel**
+- 🌱 I’m currently Working with **Vue.js, Symfony, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://rafiqit.netlify.app/](https://rafiqit.netlify.app/)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://rafiqit.netlify.app/](https://rafiqit.netlify.app/)
 
-- ⚡ Fun fact **Cycling, Coding**
+- ⚡ Fun fact **Cycling, Hiking, Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
