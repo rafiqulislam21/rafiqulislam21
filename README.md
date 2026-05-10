@@ -92,8 +92,6 @@ Passionate Full Stack Developer with expertise in building scalable web applicat
 
 ---
 
-## 📊 GitHub Analytics
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiqulislam21&show_icons=true&locale=en&layout=pie&theme=github_dark&hide_border=true" alt="Top Languages" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafiqulislam21&show_icons=true&locale=en&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
