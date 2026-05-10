@@ -32,6 +32,7 @@ Passionate Full Stack Developer with expertise in building scalable web applicat
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white&logoWidth=20&height=35" alt="Flask" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white&logoWidth=20&height=35" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/RESTful%20APIs-00D9FF?style=plastic&logo=swagger&logoColor=black&logoWidth=20&height=35" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=plastic&logo=wordpress&logoColor=white&logoWidth=20&height=35" alt="WordPress" />
 </p>
 
 ### Frontend Frameworks
