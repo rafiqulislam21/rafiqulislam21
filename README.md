@@ -26,67 +26,67 @@ Passionate Full Stack Developer with expertise in building scalable web applicat
 
 ### Backend Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Symfony-000000?style=plastic&logo=symfony&logoColor=white" alt="Symfony" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/RESTful%20APIs-00D9FF?style=plastic&logo=swagger&logoColor=black" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=plastic&logo=symfony&logoColor=white&logoWidth=20&height=35" alt="Symfony" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white&logoWidth=20&height=35" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white&logoWidth=20&height=35" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white&logoWidth=20&height=35" alt="Flask" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white&logoWidth=20&height=35" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-00D9FF?style=plastic&logo=swagger&logoColor=black&logoWidth=20&height=35" alt="RESTful APIs" />
 </p>
 
 ### Frontend Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=plastic&logo=react&logoColor=black" alt="React.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=plastic&logo=vuetify&logoColor=white" alt="Vuetify" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D&logoWidth=20&height=35" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=plastic&logo=react&logoColor=black&logoWidth=20&height=35" alt="React.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=plastic&logo=html5&logoColor=white&logoWidth=20&height=35" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white&logoWidth=20&height=35" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white&logoWidth=20&height=35" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=plastic&logo=vuetify&logoColor=white&logoWidth=20&height=35" alt="Vuetify" />
 </p>
 
 ### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&logoWidth=20&height=35" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&logoWidth=20&height=35" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white&logoWidth=20&height=35" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white&logoWidth=20&height=35" alt="Java" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white&logoWidth=20&height=35" alt="Dart" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white&logoWidth=20&height=35" alt="C++" />
 </p>
 
 ### Mobile Development
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white&logoWidth=20&height=35" alt="Flutter" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/ArangoDB-60C165?style=plastic&logo=arangodb&logoColor=white" alt="ArangoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=plastic&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white&logoWidth=20&height=35" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=plastic&logo=mongodb&logoColor=white&logoWidth=20&height=35" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/ArangoDB-60C165?style=plastic&logo=arangodb&logoColor=white&logoWidth=20&height=35" alt="ArangoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black&logoWidth=20&height=35" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=plastic&logo=oracle&logoColor=white&logoWidth=20&height=35" alt="Oracle Cloud" />
 </p>
 
 ### Tools & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white" alt="Confluence" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=plastic&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white&logoWidth=20&height=35" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&logoWidth=20&height=35" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black&logoWidth=20&height=35" alt="Linux" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white&logoWidth=20&height=35" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white&logoWidth=20&height=35" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=plastic&logo=bitbucket&logoColor=white&logoWidth=20&height=35" alt="Bitbucket" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white&logoWidth=20&height=35" alt="Postman" />
 </p>
 
 ### Methodologies & Practices
 <p>
-  <img src="https://img.shields.io/badge/Agile%2FScrum-007ACC?style=plastic&logo=agile&logoColor=white" alt="Agile/Scrum" />
-  <img src="https://img.shields.io/badge/Unit%20Testing-00D9FF?style=plastic&logo=testing&logoColor=black" alt="Unit Testing" />
-  <img src="https://img.shields.io/badge/Vuex-35495E?style=plastic&logo=vue.js&logoColor=4FC08D" alt="Vuex" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Bloc-00D9FF?style=plastic&logo=flutter&logoColor=black" alt="Bloc" />
-  <img src="https://img.shields.io/badge/GetX-00D9FF?style=plastic&logo=flutter&logoColor=black" alt="GetX" />
+  <img src="https://img.shields.io/badge/Agile%2FScrum-007ACC?style=plastic&logo=agile&logoColor=white&logoWidth=20&height=35" alt="Agile/Scrum" />
+  <img src="https://img.shields.io/badge/Unit%20Testing-00D9FF?style=plastic&logo=testing&logoColor=black&logoWidth=20&height=35" alt="Unit Testing" />
+  <img src="https://img.shields.io/badge/Vuex-35495E?style=plastic&logo=vue.js&logoColor=4FC08D&logoWidth=20&height=35" alt="Vuex" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white&logoWidth=20&height=35" alt="Redux" />
+  <img src="https://img.shields.io/badge/Bloc-00D9FF?style=plastic&logo=flutter&logoColor=black&logoWidth=20&height=35" alt="Bloc" />
+  <img src="https://img.shields.io/badge/GetX-00D9FF?style=plastic&logo=flutter&logoColor=black&logoWidth=20&height=35" alt="GetX" />
 </p>
 
 ---
