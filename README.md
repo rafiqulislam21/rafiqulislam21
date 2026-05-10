@@ -42,50 +42,28 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/REST%20API-00D9FF?style=flat-square&logo=api&logoColor=white" alt="REST API" />
-    </td>
-  </tr>
-</table>
+### 🎨 Frontend
+<span style="display: inline-flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</span>
+
+### ⚙️ Backend
+<span style="display: inline-flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Symfony-000000?style=plastic&logo=symfony&logoColor=white" alt="Symfony" />
+</span>
+
+### 🗄️ Database & Tools
+<span style="display: inline-flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+</span>
 
 </div>
 
