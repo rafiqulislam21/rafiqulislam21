@@ -9,14 +9,16 @@
 ---
 
 <div align="center">
-  
-### 🎯 About Me
-  
-🔭 **Currently Working On** → [Event Management Web App](https://www.absolut-ticket.at/)  
-🌱 **Tech Stack** → Vue.js | Symfony | Laravel | MySQL | Bootstrap  
-👨‍💻 **Portfolio** → [https://rafiqit.netlify.app/](https://rafiqit.netlify.app/)  
-📧 **Reach Out** → ribijoy19@gmail.com  
-⚡ **Fun Fact** → Cycling • Hiking • Coding
+
+## 🎯 About Me
+
+| | |
+|---|---|
+| 🔭 **Current Project** | [Event Management Web App](https://www.absolut-ticket.at/) |
+| 🌱 **Tech Stack** | Vue.js, Symfony, Laravel, MySQL, Bootstrap |
+| 👨‍💻 **Portfolio** | [https://rafiqit.netlify.app/](https://rafiqit.netlify.app/) |
+| 📧 **Email** | ribijoy19@gmail.com |
+| ⚡ **Hobbies** | Cycling, Hiking, Coding |
 
 </div>
 
@@ -40,19 +42,19 @@
 
 <div align="center">
 
-### Frontend
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
-### Database & Tools
+### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -64,12 +66,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiqulislam21&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafiqulislam21&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiqulislam21&show_icons=true&locale=en&layout=pie&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafiqulislam21&show_icons=true&locale=en&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiqulislam21&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiqulislam21&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
