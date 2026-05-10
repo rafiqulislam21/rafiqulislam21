@@ -93,12 +93,12 @@ Passionate Full Stack Developer with expertise in building scalable web applicat
 ---
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiqulislam21&show_icons=true&locale=en&layout=pie&theme=github_dark&hide_border=true" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafiqulislam21&show_icons=true&locale=en&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiqulislam21&show_icons=true&locale=en&layout=pie&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafiqulislam21&show_icons=true&locale=en&theme=github_dark&hide_border=true&rank_icon=github" />
 </p>
 
 <p>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiqulislam21&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiqulislam21&theme=github-dark&hide_border=true" />
 </p>
 
 ---
